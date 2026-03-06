@@ -1,0 +1,4 @@
+discord.py
+pandas-ta
+alpaca-py
+pandas
